@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeometryBxtch
-- 👀 I’m interested in Coding HTML
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Coding Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on: when i find one
 - 📫 How to reach me: why u have to know?
 - 😄 Pronouns: Dash/Dashe
